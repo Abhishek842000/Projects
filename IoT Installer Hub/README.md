@@ -1,10 +1,10 @@
-# Nflexon Project
+# IoT Installer Hub
 
-A comprehensive IoT network installation and connectivity management system built with React Native (frontend) and Node.js/TypeScript (backend).
+A comprehensive IoT network installation and connectivity management system built with React Native (frontend) and Node.js/TypeScript (backend). This project was developed as a freelance solution for an IoT cabling company to streamline their installation and network management processes.
 
 ## 📋 Project Overview
 
-The Nflexon Project is designed to streamline IoT network installation processes, providing tools for:
+IoT Installer Hub is designed to streamline IoT network installation processes for cabling companies, providing tools for:
 - **Installation Management**: QR code scanning, location tracking, and cabling instructions
 - **Connectivity Mapping**: Visual network path tracing and apparatus port management
 - **Certification Testing**: Interactive port testing and connectivity validation
@@ -31,7 +31,7 @@ The Nflexon Project is designed to streamline IoT network installation processes
 ## 📁 Project Structure
 
 ```
-Nflexon Project/
+IoT Installer Hub/
 ├── frontend/                 # React Native app
 │   ├── app/                  # Main application screens
 │   │   ├── components/       # Reusable UI components
@@ -212,4 +212,8 @@ The project uses PostgreSQL with tables for:
 ## 📄 License
 
 This project is proprietary software. All rights reserved.
+
+## 🏢 Project Context
+
+This project was developed as a freelance solution for an IoT cabling company looking to digitize and streamline their installation processes. The system helps technicians efficiently manage IoT network installations, track connectivity, and maintain quality standards throughout the cabling process.
  
